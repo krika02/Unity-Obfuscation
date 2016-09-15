@@ -3,7 +3,7 @@
 This is a example project in Unity3D to show how you should code if you want to obfuscate your c# code.
 
 *************************************************************************************************************
-Read more about this project here http://blog.kristofferkarlsson.me/make-you-code-ready-for-obfuscation-in-unity
+Read more about this project here http://blog.kristofferkarlsson.me/make-your-code-ready-for-obfuscation-in-unity
 *************************************************************************************************************
 
 Open the project in Unity and export it to any platform. Extract the .dll files (if needed) and obfuscate the Assembly-CSharp.dll (prefer to use https://sharpobfuscator.codeplex.com).
