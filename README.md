@@ -15,5 +15,5 @@ But there are some limitations :
 
 After obfuscation simply swap the obfuscated .dll with the old one and run the application.
 
-The game ZMBIS http://www.zmbis.com was (ios & Android) developed by using this method and is fully obfuscated.
+The game ZMBIS http://www.zmbis.com (ios & Android) was developed by using this method and is fully obfuscated.
 Download the game and decompile it and you will see.
