@@ -15,5 +15,5 @@ But there are some limitations :
 
 After obfuscation simply swap the obfuscated .dll with the old one and run the application.
 
-My game ZMBIShttps://play.google.com/store/apps/details?id=com.PixelDonut.Zmbis was developed by using this method and is fully obfuscated.
+My game ZMBIS https://play.google.com/store/apps/details?id=com.PixelDonut.Zmbis was developed by using this method and is fully obfuscated.
 Feel free to download the game and decompile it and you will see.
